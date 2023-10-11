@@ -12,10 +12,5 @@ function addingEventListener() {
     };
     input.addEventListener('click', myEventListener);
     }
-  
-    // Use addEventListener to bind the event listener to the element
-  
-  
-  // Call the addingEventListener function to set up the event listener
 
   
